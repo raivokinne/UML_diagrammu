@@ -7,6 +7,8 @@ export function ExampleSlide() {
         <section className="bg-white/10 p-6 rounded-lg">
           <h3 className="text-xl font-semibold mb-4 text-blue-300">Universitātes sistēmas piemērs</h3>
           <div className="flex justify-center mb-6">
+            <img src="https://cdn.discordapp.com/attachments/1113037503428038757/1343928240711925790/12-uml-class-diagram-example.webp?ex=67bf0e35&is=67bdbcb5&hm=814aca0bc206eb70d10cab7cbc76bfcebe6a6d3d2fe59f66f576987625a211df&format=webp&width=1834&height=872"
+             alt="Descriptive caption" className="rounded-lg" />
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
@@ -48,6 +50,7 @@ export function ExampleSlide() {
           </div>
         </section>
       </div>
+      
     </SlideLayout>
   )
 }
