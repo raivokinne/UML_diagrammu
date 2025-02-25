@@ -1,7 +1,11 @@
+import { Presentation } from "./components/presentation";
+
 export function App() {
 	return (
 		<>
-			<h1>ES ienistu melnos</h1>
+			<main className="min-h-screen">
+				<Presentation />
+			</main>
 		</>
 	)
 }
