@@ -7,8 +7,7 @@ export function ExampleSlide() {
         <section className="bg-white/10 p-6 rounded-lg">
           <h3 className="text-xl font-semibold mb-4 text-blue-300">Universitātes sistēmas piemērs</h3>
           <div className="flex justify-center mb-6">
-            <img src="https://media.discordapp.net/attachments/1113037503428038757/1343928579737780316/xBloggingP20System_0.jpeg.pagespeed.ic.r8Yy9uDWKF.jpg?ex=67bf0e86&is=67bdbd06&hm=36aff8c01a9a47e252841517d2ea5226b9780a3f390386ba39554134783d2203&=&format=webp&width=2070&height=1584"
-             alt="Descriptive caption" className="rounded-lg" />
+          <img src="https://media.geeksforgeeks.org/wp-content/uploads/20240308165524/Class-Diagram-example.webp" alt="Description of the image" className="w-full h-auto rounded-lg" />
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
@@ -50,7 +49,7 @@ export function ExampleSlide() {
           </div>
         </section>
       </div>
-      
+
     </SlideLayout>
   )
 }

@@ -63,7 +63,7 @@ export function BlogExampleSlide() {
         </section>
         <section className="col-span-1 lg:col-span-2 bg-white/10 p-6 rounded-lg">
           <h3 className="text-xl font-semibold mb-4 text-blue-300">Attēls</h3>
-          <img src="https://media.discordapp.net/attachments/1013043686189314068/1343926574097109097/image.png?ex=67bf0ca8&is=67bdbb28&hm=2cfe4c0a5dc7b502b19882ceaaea7494de804d930e12124df39da5d0be4925be&=&format=webp&quality=lossless&width=1100&height=660" alt="Description of the image" className="w-full h-auto rounded-lg" />
+          <img src="https://www.freeprojectz.com/sites/default/files/xBlogging,P20System_0.jpeg.pagespeed.ic.r8Yy9uDWKF.jpg" alt="Description of the image" className="w-full h-auto rounded-lg" />
         </section>
       </div>
     </SlideLayout>
